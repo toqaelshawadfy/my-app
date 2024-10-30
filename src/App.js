@@ -1,9 +1,9 @@
-import Aside from "./component/Aside/Asidebar";
+import Wrapper from "./component/Wrapper/Wrapper";
 
 function App() {
   return (
     <>
-    <Aside/>
+    <Wrapper/>
     </>
   );
 }
